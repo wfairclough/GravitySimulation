@@ -13,3 +13,9 @@ How to use
 
 
 Try changing the initial velocity of the space bodies to see how they react. :)
+
+
+Screenshots
+===========
+
+![Screenshot: Gavity Simulation](https://raw.github.com/wfairclough/GravitySimulation/master/screenshots/grav-sim.png)
